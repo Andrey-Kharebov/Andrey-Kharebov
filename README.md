@@ -1,17 +1,47 @@
 <h2>Andrey Kharebov - Junior Frontend Developer (Javascript, React)</h2>
+
+<p>Hi there 👋 </br>
+My name is Andrey Khareobov and I'm a beginning frontend develeper and here you can take a look on my portfolio.</p>
+
+For start, please, check the list of my skills: </br>
+
+### Frontend :
+<ul>
+    <li>React, Redux, React-Redux, React-Thunk</li>     
+    <li>JavaScript (ES6+)</li>
+    <li>CSS (SCSS, SASS)</li>
+    <li>Materialize, Bootstrap</li>
+    <li>AJAX</li>
+</ul>  
+
+### Backend :
+<ul>
+    <li>Node.JS / Express / MongoDB / Mongoose</li>     
+</ul> 
+
+### Other skills :
+<ul>
+    <li>Git / GitHub</li>     
+    <li>MySQL</li>
+    <li>Handlebars</li>
+    <li>Figma & PSD</li>
+    <li>npm</li>
+</ul>  
+
+<h3>So, below the line I would like to show you a few of my most interesting works & repos. For some of them, you will find a 'Site' link using which you can test the functionality by yourself.<h3>
 <hr/>
 
-Hi there 👋 
-I'm a beginning frontend develeper and here you can find some of works.
-
-But before that: please, check the list of my skills: </br>
-### Frontend:
-###### - React, Redux, React-Redux, React-Thunk
-###### - JavaScript (ES6+)
-###### - CSS (SCSS, SASS)
-###### - Materialize, Bootstrap
-###### - AJAX
+<h4>1. MERN application for creating lists of musical bands, their songs and lyrics for them.<h4>
     
+***Technology stack: `React`, `Redux`, `MongoDB`, `Node.JS`***
+
+    
+Repo: https://github.com/Andrey-Kharebov/song-lyrics-app <br/>
+Site: https://shrouded-atoll-79791.herokuapp.com/
+
+![](Song-lyrics-app(high).gif)
+
+
 
 
 
