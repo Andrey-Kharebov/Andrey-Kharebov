@@ -39,7 +39,7 @@ For start, please, check the list of my skills: </br>
 Repo: https://github.com/Andrey-Kharebov/clothing-shop <br/>
 Site: https://kharebov-shop.netlify.app/
 
-<img src="https://github.com/Andrey-Kharebov/clothing-shop/blob/main/public/Clothing-shop(high).1.gif" width=470> <img src="https://github.com/Andrey-Kharebov/clothing-shop/blob/main/public/Clothing-shop(high).2.gif" width=470>
+<img src="https://github.com/Andrey-Kharebov/clothing-shop/blob/main/public/Clothing-shop(high).1.gif" width=420> <img src="https://github.com/Andrey-Kharebov/clothing-shop/blob/main/public/Clothing-shop(high).2.gif" width=420>
 
 <h4>1. MERN application for creating lists of musical bands, their songs and lyrics for them.<h4>
     
@@ -49,7 +49,7 @@ Site: https://kharebov-shop.netlify.app/
 Repo: https://github.com/Andrey-Kharebov/song-lyrics-app <br/>
 Site: https://shrouded-atoll-79791.herokuapp.com/
 
-<img src="https://github.com/Andrey-Kharebov/Andrey-Kharebov/blob/main/Song-lyrics-app(high).gif" width=470> <img src="https://github.com/Andrey-Kharebov/Andrey-Kharebov/blob/main/Song-lyrics-app(high).gif" width=470>
+<img src="https://github.com/Andrey-Kharebov/Andrey-Kharebov/blob/main/Song-lyrics-app(high).gif" width=550>
 
 
 
