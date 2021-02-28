@@ -30,6 +30,16 @@ For start, please, check the list of my skills: </br>
 
 <h3>So, below the line I would like to show you a few of my most interesting works & repos. For some of them, you will find a 'Site' link using which you can test the functionality by yourself.<h3>
 <hr/>
+    
+<h4>2. Simple clothing shop with sort, search and makeAnOrder possibilities.<h4>
+    
+***Technology stack: `React`, `Redux` ***
+
+    
+Repo: https://github.com/Andrey-Kharebov/clothing-shop <br/>
+Site: https://kharebov-shop.netlify.app/
+
+<img src="https://github.com/Andrey-Kharebov/clothing-shop/blob/main/public/Clothing-shop(high).1.gif" width=470> <img src="https://github.com/Andrey-Kharebov/clothing-shop/blob/main/public/Clothing-shop(high).2.gif" width=470>
 
 <h4>1. MERN application for creating lists of musical bands, their songs and lyrics for them.<h4>
     
@@ -39,7 +49,8 @@ For start, please, check the list of my skills: </br>
 Repo: https://github.com/Andrey-Kharebov/song-lyrics-app <br/>
 Site: https://shrouded-atoll-79791.herokuapp.com/
 
-![](Song-lyrics-app(high).gif)
+<img src="https://github.com/Andrey-Kharebov/Andrey-Kharebov/blob/main/Song-lyrics-app(high).gif" width=470> <img src="https://github.com/Andrey-Kharebov/Andrey-Kharebov/blob/main/Song-lyrics-app(high).gif" width=470>
+
 
 
 
