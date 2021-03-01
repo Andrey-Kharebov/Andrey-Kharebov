@@ -30,6 +30,16 @@ For start, please, check the list of my skills: </br>
 
 <h3>So, below the line I would like to show you a few of my most interesting works & repos. For some of them, you will find a 'Site' link using which you can test the functionality by yourself.<h3>
 <hr/>
+
+<h4>😄 10. Copy of the Caravan Palace site.<h4>
+
+***Technology stack: `React`, `adaptive CSS`***
+
+    
+Repo: https://github.com/Andrey-Kharebov/caravan-palace-app <br/>
+Site: https://kharebov-caravan-palace.netlify.app/
+
+<img src="https://github.com/Andrey-Kharebov/caravan-palace-app/blob/master/public/caravanpalace.gif" width=550 height=270> <img src="https://github.com/Andrey-Kharebov/caravan-palace-app/blob/master/public/caravanpalacemobile.gif" height=270>
     
 <h4>😄 9. Copy of the Viva La Dirt League landing page.<h4>
 
