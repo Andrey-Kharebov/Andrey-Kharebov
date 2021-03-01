@@ -30,6 +30,17 @@ For start, please, check the list of my skills: </br>
 
 <h3>So, below the line I would like to show you a few of my most interesting works & repos. For some of them, you will find a 'Site' link using which you can test the functionality by yourself.<h3>
 <hr/>
+    
+
+<h4>😄 4. User admin panel with sort, filter, add, edit and remove possibilities.<h4>
+
+***Technology stack: `React`, `Redux`, `LocalStorage`, `adaptive CSS`***
+
+    
+Repo: https://github.com/Andrey-Kharebov/Fugr-test-app <br/>
+Site: https://kharebov-user-admin-panel.netlify.app/
+
+<img src="https://github.com/Andrey-Kharebov/Andrey-Kharebov/blob/main/fugr-admin-panel.gif" width=550 height=270> <img src="https://github.com/Andrey-Kharebov/Andrey-Kharebov/blob/main/fugr-admin-panel(mobile).gif" height=270>
 
 <h4>😄 3. Bla-Bla company landing.<h4>
     
