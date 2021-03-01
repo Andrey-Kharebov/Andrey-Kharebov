@@ -31,6 +31,15 @@ For start, please, check the list of my skills: </br>
 <h3>So, below the line I would like to show you a few of my most interesting works & repos. For some of them, you will find a 'Site' link using which you can test the functionality by yourself.<h3>
 <hr/>
     
+<h4>😄 7. React application that uses three different API's to get information and brings received data to single format for proper rendering.<h4>
+    
+***Technology stack: `React`, `Redux`, `Server API`***
+
+    
+Repo: https://github.com/Andrey-Kharebov/omp-task <br/>
+
+<img src="https://github.com/Andrey-Kharebov/omp-task/blob/master/public/omp-task-gif.gif" width=550>
+    
 <h4>😄 6. Full stack ecommerce website with admin panel.<h4>
     
 ***Technology stack: `Pure JS`, `Node.JS`, `Express`, `Sequelize`, `MySQL`, `adaptive CSS`***
@@ -74,7 +83,7 @@ Site: https://kharebov-bla-bla.netlify.app/
     
 <h4>😄 2. Simple clothing shop with sort, search and makeAnOrder possibilities.<h4>
     
-***Technology stack: `React`, `Redux` ***
+***Technology stack: `React`, `Redux`***
 
     
 Repo: https://github.com/Andrey-Kharebov/clothing-shop <br/>
