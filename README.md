@@ -132,9 +132,11 @@ Site: https://shrouded-atoll-79791.herokuapp.com/
 
 <img src="https://github.com/Andrey-Kharebov/Andrey-Kharebov/blob/main/Song-lyrics-app(high).gif" width=550>
 
+<hr/>
 
+![](https://komarev.com/ghpvc/?username=Andrey-Kharebov&color=blueviolet)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey-Kharebov&show_icons=true&theme=dracula)
 
 
 <!--
