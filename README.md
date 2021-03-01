@@ -31,6 +31,16 @@ For start, please, check the list of my skills: </br>
 <h3>So, below the line I would like to show you a few of my most interesting works & repos. For some of them, you will find a 'Site' link using which you can test the functionality by yourself.<h3>
 <hr/>
     
+<h4>😄 6. Full stack ecommerce website with admin panel.<h4>
+    
+***Technology stack: `Pure JS`, `Node.JS`, `Express`, `Sequelize`, `MySQL`, `adaptive CSS`***
+
+    
+Repo: https://github.com/Andrey-Kharebov/bloodborne-shop <br/>
+Site: https://hidden-taiga-36867.herokuapp.com/
+
+<img src="https://github.com/Andrey-Kharebov/bloodborne-shop/blob/main/public/bloodborne-shop.gif" width=420> <img src="https://github.com/Andrey-Kharebov/bloodborne-shop/blob/main/public/bloodborne-admin.gif" width=420>
+
 <h4>😄 5. Users table application that uses server API for getting data (small or large) and adds pagination for large one.<h4>
     
 ***Technology stack: `React`, `Server API`***
