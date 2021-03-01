@@ -1,5 +1,7 @@
 <h2>Andrey Kharebov - Junior Frontend Developer (Javascript, React)</h2>
 
+<img src="https://github.com/Andrey-Kharebov/Andrey-Kharebov/blob/main/campfire.gif">
+
 <p>Hi there 👋 </br>
 My name is Andrey Khareobov and I'm a beginning frontend develeper and here you can take a look on my portfolio.</p>
 
